@@ -6,9 +6,9 @@
     width: 800px;
     margin: 0 auto;
 }
-/* canvas {
+canvas {
     cursor: none;
-} */
+}
 .start {
   display: inline-block;
   padding: 10px 20px;
