@@ -69,7 +69,7 @@ function update() {
             del: 0
         });
     }
-    if (timer % 40 == 0) {
+    if (timer % 20 == 0) {
         fire.push({
             x: masha.x + 50,
             y: masha.y,
