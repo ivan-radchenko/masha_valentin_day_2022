@@ -1,0 +1,26 @@
+.body {
+    background-color: pink;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+/* canvas {
+    cursor: none;
+} */
+.start {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #F16D7F;
+  color: #F16D7F;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.start:hover {
+  background-color: #F16D7F;
+  color: #fff;
+  -webkit-transform: scale(125%);
+          transform: scale(125%);
+}
